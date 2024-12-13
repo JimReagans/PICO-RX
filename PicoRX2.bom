@@ -1,0 +1,20 @@
+BILL OF MATERIAL     C:\Users\ACER\OneDrive\Documents\Circad\PicoRX2.pcb              12/12/24
+----------------------------------------------------------------------------------------------
+Type/Value    Modifier      Part number   Pattern      Qty  Reference IDs
+----------------------------------------------------------------------------------------------
+
+.1uF                                      SMC0805        3  C3    C4    C8
+10µF                                      C100/150       3  C1    C2    C6
+470nF                                     SMC0805        1  C7
+47µF                                      C100/150       1  C5
+ferrite bead                              SM0805         2  FB1   FB2
+B2B-XH-A  JS                              B2B-XH-A       1  J1
+DF13-2P-1.25                H2191-ND      DF13-2S        1  J1
+DF13-3P-1.25                H2192-ND      DF13-3P        2  J2    J3
+DF13-4P-1.25                H2193-ND      DF13-4P        2  J5    J6
+DF13-5P-1.25                H2194-ND      DF13-4         1  J4
+DF13-8P-1.25                H2197-ND      DF13-8P-1.2    1  J7
+                                          SIP2           1  P1
+                                          SIP3           1  P2
+100                                       SM0805         1  R1
+Pico .1"cent                              DIP40          1  U1

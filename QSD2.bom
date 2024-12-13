@@ -1,0 +1,20 @@
+BILL OF MATERIAL       C:\Users\ACER\OneDrive\Documents\Circad\QSD2.pcb               12/12/24
+----------------------------------------------------------------------------------------------
+Type/Value    Modifier      Part number   Pattern      Qty  Reference IDs
+----------------------------------------------------------------------------------------------
+
+.01µF                                     SMC0603        1  C1
+.056µF                                    SMC0603        4  C4    C5    C6    C7
+.1µF                                      SMC0603        5  C2    C3    C12   C13   C14
+10uF                                      SMC0805        2  C8+   C9+
+150pF                                     SMC0603        2  C10   C11
+1µF           25V           TANT best     SMCVB          1  C15
+DF13-2-1.25D                H2191-ND      DF13-2S        1  J1
+DF13-3-1.25D                H2192-ND      DF13-3P        2  J1    J2
+board edge                                SMA (edge m    1  J2
+100                                       SM0603         4  R4    R5    R6    R7
+10K                                       SM0603         2  R2    R3
+1K                                        SM0603         1  R1
+75K                                       SM0603         2  R8    R9
+74CBTLV3253                               SO16           1  U1
+MCP6022                                   SO8            1  U2
